@@ -3,9 +3,9 @@
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm SpArK ShAdoW&nbsp;
 
-![My card name](https://cardivo.vercel.app/api?name=SpArK-ShAdoW-%20🙂&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/8q9ksEf.jpegbackgroundColor=%23ecf0f1&github=terror-boy&&pattern=leaf&colorPattern=%25eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=SpArK-ShAdoW-%20&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/8q9ksEf.jpegbackgroundColor=%23ecf0f1&github=terror-boy&&pattern=leaf&colorPattern=%25eaeaea)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SpArK ShAdoW&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SPARK-SHADOW&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terror-boy" alt="terror-boy" /></a> </p>
 
