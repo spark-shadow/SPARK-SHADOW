@@ -5,17 +5,17 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=SpArK-ShAdoW-%20&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/8q9ksEf.jpegbackgroundColor=%23ecf0f1&github=terror-boy&&pattern=leaf&colorPattern=%25eaeaea)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SPARK-SHADOW&label=Profile%20views&color=0e75b6&style=flat" alt="terror-boy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SPARK-SHADOW&label=Profile%20views&color=0e75b6&style=flat" alt="SPARK-SHADOW" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terror-boy" alt="terror-boy" /></a> </p>
-
-<p align="center">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=terror-boy&show_icons=true&theme=dark&locale=en&layout=compact" alt="terror-boy" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SPARK-SHADOW" alt="SPARK-SHADOW" /></a> </p>
 
 <p align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=dark&locale=en" alt="terror-boy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SPARK-SHADOW&show_icons=true&theme=dark&locale=en&layout=compact" alt="SPARK-SHADOW" /></p>
+
+<p align="center">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SPARK-SHADOW&show_icons=true&theme=dark&locale=en" alt="SPARK-SHADOW" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terror-boy&theme=dark" alt="terror-boy" /></p>
 
