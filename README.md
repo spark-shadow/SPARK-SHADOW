@@ -5,7 +5,7 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=SpArK-ShAdoW-%20&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/8q9ksEf.jpegbackgroundColor=%23ecf0f1&github=terror-boy&&pattern=leaf&colorPattern=%25eaeaea)
 
-<p align="left"> <a href="https://instagram.com/_spark_shadow_?utm_medium=copy_link" target="blank"><img src="https://img.shields.io/twitter/follow/SpArK ShAdoW?logo=instagram&style=for-the-badge" alt="SpArK ShAdoW" /></a> </p>
+<p align="left"> <a href="https://instagram.com/_spark_shadow_?utm_medium=copy_link" target="blank"><img src="https://img.shields.io/twitter/follow/SparkShadow?logo=instagram&style=for-the-badge" alt="SpArK ShAdoW" /></a> </p>
 
 - 🔭 I’m currently working on [Shadow Bot] (https://github.com/7XxShAdoWxX7/Shadow)
 
