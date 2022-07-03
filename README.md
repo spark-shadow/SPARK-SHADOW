@@ -1,3 +1,4 @@
+<audio ref='themeSong' src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/audio.mp3" autoPlay loop></audio>
 
 # Hi I'm SPARK SHADOW&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/Hi.gif" width="48px"></a>
 
