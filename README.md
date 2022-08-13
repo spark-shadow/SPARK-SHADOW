@@ -1,4 +1,19 @@
 
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
+
+
 # Hi I'm SPARK SHADOW&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/Hi.gif" width="48px"></a>
 
 <audio ref='themeSong' src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/audio.mp3" autoPlay loop></audio>
