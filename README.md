@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_spark_shadow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_spark_shadow_" height="30" width="40" /></a>
+[Contact:](https://wa.me/919526808481)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
