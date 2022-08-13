@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ashin;welcome+to+my+profile" />
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -12,11 +15,6 @@
   </a>
 </div>
 -->
-
-
-# Hi I'm SPARK SHADOW&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/Hi.gif" width="48px"></a>
-
-<audio ref='themeSong' src="https://raw.githubusercontent.com/SPARK-SHADOW/SPARK-SHADOW/SPARK-SHADOW-OFFICIAL/Tools/audio.mp3" autoPlay loop></audio>
 
 - 🔭 I’m currently working on [Shadow Bot] (https://github.com/SPARK-SHADOW/Md-Wa-Bot)
 
