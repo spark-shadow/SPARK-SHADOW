@@ -16,13 +16,22 @@
 </div>
 -->
 
-- 🔭 I’m currently working on [Shadow Bot] (https://github.com/SPARK-SHADOW/Md-Wa-Bot)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spark-shadow&label=Profile%20views&color=0e75b6&style=flat" alt="spark-shadow" /> </p>
 
-- 💬 Ask me about **ME**
+- 🔭 I’m currently working on [Md-Wa-Bot](https://SPARK-SHADOW/Md-Wa-Bot)
 
-- 📫 How to reach me **https://wa.me/919526808481**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/spark-shadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spark-shadow" height="30" width="40" /></a>
+<a href="https://instagram.com/_spark_shadow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_spark_shadow_" height="30" width="40" /></a>
+</p>
 
-- ⚡ Fun fact **I THINK IAM VERY HAPPY**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spark-shadow&show_icons=true&locale=en&layout=compact" alt="spark-shadow" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spark-shadow&show_icons=true&locale=en" alt="spark-shadow" /></p>
 
 <!---
 0X-ShadoW-X0/0X-ShadoW-X0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
