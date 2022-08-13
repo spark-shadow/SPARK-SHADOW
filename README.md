@@ -16,13 +16,10 @@
 </div>
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spark-shadow&label=Profile%20views&color=0e75b6&style=flat" alt="spark-shadow" /> </p>
-
 - 🔭 I’m currently working on [Md-Wa-Bot](https://SPARK-SHADOW/Md-Wa-Bot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/spark-shadow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spark-shadow" height="30" width="40" /></a>
 <a href="https://instagram.com/_spark_shadow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_spark_shadow_" height="30" width="40" /></a>
 </p>
 
